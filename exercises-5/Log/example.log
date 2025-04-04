@@ -1,0 +1,5 @@
+2025-04-04T15:00:01Z INFO Starting service
+2025-04-04T15:02:45Z WARN Low memory
+2025-04-04T15:03:12Z INFO Request received
+2025-04-04T15:03:45Z ERROR Timeout while processing request
+2025-04-04T15:04:01Z INFO Service stopped
