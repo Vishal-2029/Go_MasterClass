@@ -42,22 +42,22 @@ Includes all exercises for mastering and understand golang in depth
 
 ### **6. Networking**
 
-- [ ]  **HTTP Server:** Write a basic HTTP server using the `net/http` package with endpoints for CRUD operations.
-- [ ]  **Chat Application:** Build a simple TCP-based chat server where multiple clients can communicate with each other.
+- [x]  **HTTP Server:** Write a basic HTTP server using the `net/http` package with endpoints for CRUD operations.
+- [x]  **Chat Application:** Build a simple TCP-based chat server where multiple clients can communicate with each other.
 - [ ]  **Web Scraper:** Build a web scraper that fetches and parses data from a website.
 
 ---
 
 ### **7. Testing and Benchmarking**
 
-- [ ]  **Custom Testing Framework:** Create a simple testing framework similar to Go's `testing` package.
-- [ ]  **Benchmark Sorting Algorithms:** Compare the performance of different sorting algorithms using Go's benchmarking tools.
+- [x]  **Custom Testing Framework:** Create a simple testing framework similar to Go's `testing` package.
+- [x]  **Benchmark Sorting Algorithms:** Compare the performance of different sorting algorithms using Go's benchmarking tools.
 
 ---
 
 ### **8. Reflection and Generics**
 
-- [ ]  **Dynamic Struct Validation:** Use reflection to validate struct fields based on custom tags.
+- [x]  **Dynamic Struct Validation:** Use reflection to validate struct fields based on custom tags.
 - [ ]  **Generic Stack:** Implement a generic stack using Go generics for push, pop, and peek operations.
 
 ---
